@@ -20,7 +20,7 @@ if (fromGoogleAds) {
 function showPopup() {
 
   const REDIRECT_URL =
-  "https://boostreach.site/";
+  "https://levelupflow.site/";
 
   if (document.querySelector(".modal-backdrop")) return;
 
